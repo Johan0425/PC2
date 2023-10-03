@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/model/Person.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/views/InternalViewTent.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/main/PC2.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/model/Tent.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/views/MainView.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/views/LoanView.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/singleton/Singleton.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/dao/TentDAO.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/dao/PersonDAO.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/controllers/ControllerPerson.java</file>
+            <file>file:/C:/Users/joanp/OneDrive/Documentos/NetBeansProjects/PC2/src/controllers/ControllerTent.java</file>
+        </group>
+    </open-files>
+</project-private>
